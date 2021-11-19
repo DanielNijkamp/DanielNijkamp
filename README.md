@@ -1,7 +1,8 @@
 <h1 align="center">
-
+  
 ![gif](https://cdn.discordapp.com/attachments/854772935573897249/911255238219005962/ezgif.com-gif-maker.gif)
 
+</h1>
 
 # About me
 
@@ -22,4 +23,4 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 # Contact
 
 ##### Website: [Bruski.xyz](https://bruski.xyz)
-</h1>
+

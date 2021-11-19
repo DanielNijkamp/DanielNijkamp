@@ -1,6 +1,6 @@
 <h1 align="center">
   
-![image](https://cdn.discordapp.com/attachments/854772935573897249/911261421990465557/testtest.jpg)
+![image]()
 
 </h1>
 

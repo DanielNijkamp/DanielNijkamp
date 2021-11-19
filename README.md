@@ -1,6 +1,6 @@
 <h1 align="center">
   
-![image](https://ibb.co/J5JbgtJ)
+![image](https://ibb.co/J5JbgtJ.png)
 
 </h1>
 

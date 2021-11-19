@@ -1,6 +1,6 @@
 <h1 align="center">
   
-![gif](https://cdn.discordapp.com/attachments/854772935573897249/911255238219005962/ezgif.com-gif-maker.gif)
+![image](https://cdn.discordapp.com/attachments/854772935573897249/911261421990465557/testtest.jpg)
 
 </h1>
 

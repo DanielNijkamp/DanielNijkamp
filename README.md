@@ -1,16 +1,22 @@
-### Hi there 👋
+![gif](https://cdn.discordapp.com/attachments/854772935573897249/911255238219005962/ezgif.com-gif-maker.gif)
 
-<!--
-**DanielNijkamp/DanielNijkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik verdiep me nu in game development maar wil me nog verdiepen in:
+
+#### Audio : Audacity, FL studios
+#### Websites: HTML, CSS, JS, PHP
+#### Backend Game dev: Server / Https requests, database
+
+
+# Recent Projects
+[Tower Defense](https://github.com/DanielNijkamp/Tower_Defense)
+
+[Space Race](https://github.com/DanielNijkamp/ExpendingSpace)
+
+[Gun system W.I.P](https://github.com/DanielNijkamp/UnityGunSystem)
+
+# Contact
+
+##### Website: [Bruski.xyz](https://bruski.xyz)

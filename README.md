@@ -1,6 +1,6 @@
 <h1 align="center">
   
-![image](https://ibb.co/0Kr9PRR)
+![image]()
 
 </h1>
 
@@ -20,7 +20,9 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 
 [Gun system W.I.P](https://github.com/DanielNijkamp/UnityGunSystem)
 
+[SCP Library W.I.P](https://github.com/DanielNijkamp/F2M6PROG)
+
 # Contact
 
-##### Website: [Bruski.xyz](https://bruski.xyz)
+##### Website W.I.P: [Bruski.xyz](https://bruski.xyz)
 

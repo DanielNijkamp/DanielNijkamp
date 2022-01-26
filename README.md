@@ -18,7 +18,7 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 
 [Space Race](https://github.com/DanielNijkamp/ExpendingSpace)
 
-[Gun system W.I.P](https://github.com/DanielNijkamp/UnityGunSystem)
+[Gun system. Scrapped project](https://github.com/DanielNijkamp/UnityGunSystem)
 
 [SCP Library W.I.P](https://github.com/DanielNijkamp/F2M6PROG)
 

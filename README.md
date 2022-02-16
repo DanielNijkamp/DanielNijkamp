@@ -14,15 +14,15 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 
 
 # Recent Projects
+[SCP Library](https://github.com/DanielNijkamp/F2M6PROG)
+
 [Tower Defense](https://github.com/DanielNijkamp/Tower_Defense)
 
 [Space Race](https://github.com/DanielNijkamp/ExpendingSpace)
 
-[Gun system. Scrapped project](https://github.com/DanielNijkamp/UnityGunSystem)
 
-[SCP Library W.I.P](https://github.com/DanielNijkamp/F2M6PROG)
-
+[Special IO (in development)](https://github.com/DanielNijkamp/Special_IO)
 # Contact
 
-##### Website W.I.P: [Bruski.xyz](https://bruski.xyz)
+##### Website: [Bruski.xyz](https://bruski.xyz)
 

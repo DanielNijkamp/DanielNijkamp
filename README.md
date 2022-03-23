@@ -24,5 +24,5 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 [Special IO (in development)](https://github.com/DanielNijkamp/Special_IO)
 # Contact
 
-##### Website: [Bruski.xyz](https://bruski.xyz)
+##### Website: [DanielNijkamp.xyz](https://danielnijkamp.xyz)
 

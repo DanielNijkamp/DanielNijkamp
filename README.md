@@ -21,7 +21,7 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 [Space Race](https://github.com/DanielNijkamp/ExpendingSpace)
 
 
-[Special IO (in development)](https://github.com/DanielNijkamp/Special_IO)
+[Special IO](https://github.com/DanielNijkamp/Special_IO)
 # Contact
 
 ##### Website: [danielnijkamp.xyz](https://danielnijkamp.xyz)

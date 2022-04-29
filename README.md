@@ -14,7 +14,7 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 
 
 # Recent Projects
-# New! [2022 Hyper Unicorn Game Jam](https://github.com/DanielNijkamp/GJ-2022) 
+## New! [2022 Hyper Unicorn Game Jam](https://github.com/DanielNijkamp/GJ-2022) 
 
 [SCP Library](https://github.com/DanielNijkamp/F2M6PROG)
 

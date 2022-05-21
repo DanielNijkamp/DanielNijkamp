@@ -1,6 +1,6 @@
 <h1 align="center">
   
-![image](test7.jpg?raw=true)
+![image](test7.png?raw=true)
 
 </h1>
 

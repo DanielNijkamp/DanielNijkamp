@@ -8,8 +8,8 @@
 
 Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik verdiep me nu in game development maar wil me nog verdiepen in:
 
-#### Audio : Audacity, FL studios
-#### Websites: HTML, CSS, JS, PHP
+#### Audio : Audacity, FL studios, Wwise or FMOD
+#### Game Dev: Shaders, DOTS, c++, Engines
 #### Backend Game dev: Server / Https requests, database
 
 

@@ -1,6 +1,6 @@
 <h1 align="center">
   
-<img src="https://github.com/DanielNijkamp/DanielNijkamp/blob/master/test7.png" width="500" height="500">
+<img src="https://github.com/DanielNijkamp/DanielNijkamp/blob/master/test7.png" width="250" height="250">
 
 </h1>
 

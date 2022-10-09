@@ -4,19 +4,21 @@
 
 </h1>
 
+# Portfolio Website: [danielnijkamp.xyz](https://danielnijkamp.xyz)
+
 # About me
 
 Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik verdiep me nu in game development maar wil me nog verdiepen in:
 
 #### Audio : Audacity, FL studios, Wwise or FMOD
-#### Game Dev: Shaders, DOTS, c++, Engines
-#### Backend Game dev: Server / Https requests, database
+#### Game Dev: Shaders, Unity, DOTS, c++, c++ & c# engines
+#### Backend Game dev: network sockets / https requests, database
 
 
 # Recent Projects
 [2022 Hyper Unicorn Game Jam](https://github.com/DanielNijkamp/GJ-2022) 
 
-[SCP Library](https://github.com/DanielNijkamp/F2M6PROG)
+[Muse](https://github.com/LeonBoussen/muse)
 
 [Tower Defense](https://github.com/DanielNijkamp/Tower_Defense)
 
@@ -24,7 +26,4 @@ Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik ve
 
 [Special IO](https://github.com/DanielNijkamp/Special_IO)
 
-# Contact
-
-##### Website: [danielnijkamp.xyz](https://danielnijkamp.xyz)
 

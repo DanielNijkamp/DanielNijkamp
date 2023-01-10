@@ -8,11 +8,11 @@
 
 # About me
 
-Mijn naam is Daniel Nijkamp, 2de jaar Game developer & general programmer, ik verdiep me nu in game development maar wil me nog verdiepen in:
+Mijn naam is Daniel Nijkamp, 3de jaar Game developer & general programmer, ik verdiep me nu in game development maar wil me nog verdiepen in:
 
 #### Audio : Audacity, FL studios, Wwise or FMOD
 #### Game Dev: Shaders, Unity, DOTS, c++, c++ & c# engines
-#### Backend Game dev: network sockets / https requests, database
+#### Backend Game dev: network sockets / https requests, database, data dingen
 
 
 # Recent Projects

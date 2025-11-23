@@ -10,13 +10,6 @@
 </table>
 
 
-|  |  |
-:-------------------------:|:-------------------------:
-![mystats](https://github-readme-stats.vercel.app/api?username=DanielNijkamp&theme=prussian&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNijkamp&layout=compact&theme=prussian)
-
-
-
-
 
 <h3 align="center">
   
@@ -24,8 +17,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielnijkamp2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nijkamp/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuNQHiZDizZF9ErJEi8Gzzg)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.danielnijkamp.xyz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://danielnijkamp.xyz)
   
 </h3>
